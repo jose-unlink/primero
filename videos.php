@@ -41,7 +41,7 @@
 
 <?php
 
-
+// necesito que funcione con una base de datos en la cual tendre los link de los videos
 
     include 'pag/conn2.php';
 
