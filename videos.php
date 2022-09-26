@@ -28,20 +28,6 @@
 
 
 
-<script type="text/javascript">
-  
-
- function saludarA($nombre){
-      echo "Hola $nombre";
-   }
-   saludarA('Fernando');
-
-
-
-</script>
-
-
-
 
 
 
@@ -62,7 +48,7 @@
 
 
 
-include 'pag/conn2.php';
+include 'conn.php';
 
 
 
